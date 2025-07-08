@@ -50,7 +50,7 @@ sympy==1.13.1
 tokenizers==0.21.1
 torch==2.6.0
 tqdm==4.67.1
-transformers==4.51.0.dev0
+transformers==4.51.0
 typing-extensions==4.12.2
 typing-inspection==0.4.0
 urllib3==2.3.0
